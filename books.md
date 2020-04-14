@@ -3,7 +3,7 @@
 ## Novels
 - [In the Distance](https://www.goodreads.com/book/show/34381330-in-the-distance)
   - By Hernan Diaz
-- [De grote angst in de bergen (La grande peur dans la montagne)](https://www.goodreads.com/book/show/44159439-de-grote-angst-in-de-bergen)
+- [De grote angst in de bergen (La grande peur dans la montagne)](https://www.goodreads.com/book/show/44159439-de-grote-angst-in-de-bergen) *(Dutch, translated from French)*
   - By Charles-Ferdinand Ramuz
 - [All the Light We Cannot See](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see)
   - By Anthony Doerr
@@ -15,14 +15,24 @@
   - By Douglas Adams
 - [Buddha: A Story of Enlightenment](https://www.goodreads.com/book/show/319604.Buddha)
   - By Deepak Chopra
-- [Het Huis van de Moskee](https://www.goodreads.com/book/show/1877062.Het_huis_van_de_moskee)
+- [Het Huis van de Moskee](https://www.goodreads.com/book/show/1877062.Het_huis_van_de_moskee) *(Dutch)*
   - By Kader Abdolah
+- [The Handmaid's Tale](https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale)
+  - By Margaret Atwood
 
-
-## Other
+## Non-fiction about cyber security, etc.
 - [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg)
   - By Clifford Stoll
   - A first-person account of hunting a computer hacker in the late 1980s.
+- [Het is oorlog maar niemand die het ziet](https://www.goodreads.com/book/show/51641876-het-is-oorlog-maar-niemand-die-het-ziet) *(Dutch)*
+  - By Huib Modderkolk
+- [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.goodreads.com/book/show/18465875-countdown-to-zero-day)
+  - By Kim Zetter
+- [Permanent Record](https://www.goodreads.com/book/show/46223297-permanent-record)
+  - By Edward Snowden
+
+
+## Other
 - [Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen](https://www.goodreads.com/book/show/6289283-born-to-run)
   - By Christopher McDougall
   - A book about barefoot running, ultramarathons, and the Tarahumara people (among other things)
@@ -40,3 +50,5 @@
   - By Franklin Veaux, Eve Rickert
 - [Eating Animals](https://www.goodreads.com/book/show/6604712-eating-animals)
   - By Jonathan Safran Foer
+- [What If? Serious Scientific Answers to Absurd Hypothetical Questions ](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions)
+  - By Randall Munroe
