@@ -57,3 +57,9 @@
   - By Jonathan Safran Foer
 - [What If? Serious Scientific Answers to Absurd Hypothetical Questions](https://www.goodreads.com/book/show/21413662-what-if-serious-scientific-answers-to-absurd-hypothetical-questions)
   - By Randall Munroe
+- [The Terrible and Wonderful Reasons Why I Run Long Distances](https://www.goodreads.com/book/show/20926077-the-terrible-and-wonderful-reasons-why-i-run-long-distances)
+  - By Matthew Inman (The Oatmeal)
+- [Digital Minimalism: Choosing a Focused Life in a Noisy World](https://www.goodreads.com/book/show/40672036-digital-minimalism)
+  - By Cal Newport
+- [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
+  - By Cal Newport
