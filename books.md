@@ -63,3 +63,5 @@
   - By Cal Newport
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work)
   - By Cal Newport
+- [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.goodreads.com/book/show/26156469-never-split-the-difference)
+  - By Chris Voss, Tahl Raz
