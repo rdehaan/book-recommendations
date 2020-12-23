@@ -23,6 +23,8 @@
   - By Margaret Atwood
 - [The Outcasts of Time](https://www.goodreads.com/book/show/34103858-the-outcasts-of-time)
   - By Ian Mortimer
+- [The Nickel Boys](https://www.goodreads.com/book/show/42270835-the-nickel-boys)
+  - By Colson Whitehead
 
 ## Non-fiction about cyber security, etc.
 - [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg)
