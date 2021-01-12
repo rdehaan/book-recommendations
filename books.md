@@ -71,3 +71,5 @@
   - By Chris Voss, Tahl Raz
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep)
   - By Matthew Walker
+- [Wij slaven van Suriname](https://www.goodreads.com/book/show/7052614-wij-slaven-van-suriname) *(Dutch)*
+  - By Anton de Kom
