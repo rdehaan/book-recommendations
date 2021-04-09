@@ -25,6 +25,8 @@
   - By Ian Mortimer
 - [The Nickel Boys](https://www.goodreads.com/book/show/42270835-the-nickel-boys)
   - By Colson Whitehead
+- [The Hunt for Red October](https://www.goodreads.com/book/show/19691.The_Hunt_for_Red_October)
+  - By Tom Clancy
 
 ## Non-fiction about cyber security, etc.
 - [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg)
