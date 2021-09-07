@@ -27,6 +27,8 @@
   - By Colson Whitehead
 - [The Hunt for Red October](https://www.goodreads.com/book/show/19691.The_Hunt_for_Red_October)
   - By Tom Clancy
+- [Red Storm Rising](https://www.goodreads.com/book/show/318525.Red_Storm_Rising)
+  - By Tom Clancy
 
 ## Non-fiction about cyber security, etc.
 - [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg)
@@ -75,3 +77,7 @@
   - By Matthew Walker
 - [Wij slaven van Suriname](https://www.goodreads.com/book/show/7052614-wij-slaven-van-suriname) *(Dutch)*
   - By Anton de Kom
+- [Ten Arguments For Deleting Your Social Media Accounts Right Now](https://www.goodreads.com/book/show/37830765-ten-arguments-for-deleting-your-social-media-accounts-right-now)
+  - By Jaron Lanier
+- ['t Hooge Nest](https://www.goodreads.com/book/show/42816183-t-hooge-nest)
+  - by Roxane van Iperen
