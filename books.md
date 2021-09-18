@@ -81,3 +81,5 @@
   - By Jaron Lanier
 - ['t Hooge Nest](https://www.goodreads.com/book/show/42816183-t-hooge-nest)
   - by Roxane van Iperen
+- [The Self Illusion: Why There is No 'You' Inside Your Head](https://www.goodreads.com/book/show/13384559-the-self-illusion)
+  - by Bruce Hood
