@@ -81,5 +81,13 @@
   - By Jaron Lanier
 - ['t Hooge Nest](https://www.goodreads.com/book/show/42816183-t-hooge-nest)
   - by Roxane van Iperen
+- [De Genocidefax](https://www.goodreads.com/book/show/58235910-de-genocidefax)
+  - by Roxane van Iperen
 - [The Self Illusion: Why There is No 'You' Inside Your Head](https://www.goodreads.com/book/show/13384559-the-self-illusion)
   - by Bruce Hood
+- [If This Is a Man](https://www.goodreads.com/book/show/6181.If_This_Is_a_Man_The_Truce)
+  - by Primo Levi
+- [The Drowned and the Saved](https://www.goodreads.com/book/show/6176.The_Drowned_and_the_Saved)
+  - by Primo Levi
+- [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
+  - by Viktor Frankl
