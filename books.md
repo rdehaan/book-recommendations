@@ -91,3 +91,9 @@
   - by Primo Levi
 - [Man's Search for Meaning](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning)
   - by Viktor Frankl
+- [In Europa](https://www.goodreads.com/book/show/9470575-in-europa)
+  - by Geert Mak
+- [Grote verwachtingen](https://www.goodreads.com/book/show/48659181-grote-verwachtingen-in-europa-1999-2019)
+  - by Geert Mak
+- [Take Your Eye Off the Ball 2.0: How to Watch Football by Knowing Where to Look](https://www.goodreads.com/book/show/25246289-take-your-eye-off-the-ball-2-0)
+  - by Pat Kirwan, David Seigerman
